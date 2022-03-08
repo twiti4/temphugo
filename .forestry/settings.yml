@@ -9,14 +9,17 @@ sections:
 - type: document
   path: exampleSite/content/english/_index.md
   label: Homepage (en)
+  read_only: false
 - type: document
   path: exampleSite/content/deutsch/_index.md
   label: Homepage (de)
+  read_only: false
 - type: heading
   label: Blog
 - type: document
   path: exampleSite/content/english/blog/_index.md
   label: Blog Page (en)
+  read_only: false
 - type: document
   path: exampleSite/content/deutsch/blog/_index.md
   label: Blog Page (de)
